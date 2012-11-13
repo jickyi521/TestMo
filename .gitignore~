@@ -2,7 +2,6 @@
 # open mode   #
 ###############
 
-/gen/
 /bin/
 /.settings/
 /.svn/
